@@ -25,7 +25,6 @@ module.exports = {
   devtool: 'source-map',
   entry: './src/index.js',
   devServer: {
-    static: './dist',
     hot: true,
   },
 
