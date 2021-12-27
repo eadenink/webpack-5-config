@@ -31,4 +31,4 @@ Builds the app for production to the `build` folder.
 
 ### `npm run clean`
 
-Delete './dist' folder.
+Delete `dist` folder.
